@@ -12,19 +12,19 @@
     <table>
         <tr>
             <td>Name</td>
-            <td>${u.name}</td>
+            <td>${t.name}</td>
         </tr>
         <tr>
             <td>Last name</td>
-            <td>${u.lastName}</td>
+            <td>${t.lastName}</td>
         </tr>     
         <tr>
             <td>Birth Month</td>
-            <td>${u.birthMonth}</td>
+            <td>${t.birthMonth}</td>
         </tr>  
         <tr>
             <td>Country</td>
-            <td>${u.country}</td>
+            <td>${t.country}</td>
         </tr>   
         </table>
 <a href = "viewAll.mvc">View all Travelers</a>

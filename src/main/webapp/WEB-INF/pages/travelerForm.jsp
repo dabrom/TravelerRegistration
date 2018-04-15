@@ -30,7 +30,6 @@
             <td><mvc:label path="country">Country</mvc:label></td>
             <td><mvc:select path="country" items="${countries}" /></td>
         </tr>
-     
         <tr>
 	        <td colspan="2">
                 <input type="submit" value="Submit" />
